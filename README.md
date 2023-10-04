@@ -1,9 +1,9 @@
 # MiLibroLunadePluton
 
-##Proceso en Calistenia
+##Como hacer arroz hervido
 
-1. Hoy hice 100 lagartijas
-2. Ayer hice 100 lagartijas y 50 sentadillas
+1. Conseguir arroz, aceite, sal, una olla y agua
+2. Debes tener en cuenta que por cada 1 taza de arroz son 2 de agua
 3. Hoy pude mantenerme en paro de mano durante 15 segundos
 4. Hoy comi sano
 5. Logre hacer 200 abdominales
