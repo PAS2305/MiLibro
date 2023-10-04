@@ -8,3 +8,5 @@
 4. Hoy comi sano
 5. Logre hacer 200 abdominales
 6. Hice peso muerto con mi pesa de 60 kilos
+7. Corri 5 kilometros
+8. Comi sano
