@@ -1,6 +1,6 @@
 # MiLibroLunadePluton
 
-##Como hacer arroz hervido
+**Como hacer arroz hervido**
 
 1. Conseguir arroz, aceite, sal, una olla y agua
 2. Debes tener en cuenta que por cada 1 taza de arroz son 2 de agua
